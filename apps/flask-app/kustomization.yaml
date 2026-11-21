@@ -6,4 +6,4 @@ resources:
   - deployment.yaml
 images:
   - name: hariharaprabhu21/flask-cicd
-    newTag: main-8
+    newTag: main-10
