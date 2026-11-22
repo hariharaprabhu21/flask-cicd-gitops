@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/hariharaprabhu21/flask-cicd-gitops.git
     targetRevision: main
-    path: apps/flask-app
+    path: apps/flask-app/overlays/prod
   destination:
     server: https://kubernetes.default.svc
     namespace: flask
