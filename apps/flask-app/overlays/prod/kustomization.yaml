@@ -6,4 +6,4 @@ resources:
   - ../../base
 images:
   - name: hariharaprabhu21/flask-cicd
-    newTag: main-11
+    newTag: main-12
